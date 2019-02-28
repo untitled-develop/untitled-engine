@@ -1,2 +1,2 @@
 # untitled-engine
-In house SFLM and OpenGL game engine.
+In house SFML and OpenGL game engine.
